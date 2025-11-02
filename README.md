@@ -26,11 +26,7 @@
 
 | Script |
 | ------ |
-| [Wayfire Config](https://github.com/samwhelp/wayfire-adjustment/tree/main/prototype/main/wayfire-config) |
-
-| Wayfire Config |
-| -------------- |
-| [Main](https://github.com/samwhelp/wayfire-adjustment/tree/main/prototype/main/wayfire-config/part/Main) |
+| [Wayfire Config](https://github.com/samwhelp/wayfire-adjustment/tree/main/prototype/main/wayfire-config/part/Main) |
 
 
 
