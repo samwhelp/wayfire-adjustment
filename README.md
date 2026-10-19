@@ -3,6 +3,8 @@
 # wayfire-adjustment
 
 
+
+
 ## Home
 
 | Link | GitHub |
@@ -45,6 +47,20 @@
 
 | Link | GitHub |
 | ---- | ------ |
+| [Wayland Adjustment](https://samwhelp.github.io/wayland-adjustment/) | [GitHub](https://github.com/samwhelp/wayland-adjustment) |
+| [Labwc Adjustment](https://samwhelp.github.io/labwc-adjustment/) | [GitHub](https://github.com/samwhelp/labwc-adjustment) |
+| [Cosmic Adjustment](https://samwhelp.github.io/cosmic-adjustment/) | [GitHub](https://github.com/samwhelp/cosmic-adjustment)
+
+
+| Link | GitHub |
+| ---- | ------ |
 | [Debian Wayfire Adjustment](https://samwhelp.github.io/debian-wayfire-adjustment/) | [GitHub](https://github.com/samwhelp/debian-wayfire-adjustment) |
 | [Ubuntu Wayfire Adjustment](https://samwhelp.github.io/ubuntu-wayfire-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-wayfire-adjustment) |
 | [Fedora Wayfire Adjustment](https://samwhelp.github.io/fedora-wayfire-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-wayfire-adjustment) |
+
+
+
+
+## Samwhelp
+
+* [GitHub](https://github.com/samwhelp)
