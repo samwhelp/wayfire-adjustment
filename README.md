@@ -52,6 +52,7 @@
 | [Debian Wayfire Adjustment](https://samwhelp.github.io/debian-wayfire-adjustment/) | [GitHub](https://github.com/samwhelp/debian-wayfire-adjustment) |
 | [Ubuntu Wayfire Adjustment](https://samwhelp.github.io/ubuntu-wayfire-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-wayfire-adjustment) |
 | [Fedora Wayfire Adjustment](https://samwhelp.github.io/fedora-wayfire-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-wayfire-adjustment) |
+| [Archlinux Wayfire Adjustment](https://samwhelp.github.io/archlinux-wayfire-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-wayfire-adjustment) |
 
 
 
